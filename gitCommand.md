@@ -2,7 +2,7 @@
 
 ## git 상태확인 명령어
 
--git init
+-git init == initialize (초기화)
 현재 디렉토리Git저장소로 초기화 -> 여기서 git 저장소로 보네겠다
 
 - git log 
